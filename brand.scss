@@ -16,10 +16,6 @@ $brand-orange: #ff9469;
 	margin: 4em auto 5em auto;
 }
 
-.row {
-	margin-bottom: 0px;
-}
-
 .module {
 	padding: 40px;
 }
@@ -49,7 +45,9 @@ nav {
 	padding: 2em;
 }
 
-
+.logo-var {
+	display: inline-block;
+}
 
 .color {
 	height: 140px;
